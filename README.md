@@ -136,24 +136,6 @@ Analyzed Hamming, Reed-Solomon, and LDPC codes for reliability across noisy tran
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Proilmo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proilmo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Proilmo&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Proilmo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF" width="100%"/>
-
-</div>
-
----
 
 ### 🐍 Contribution Snake
 
