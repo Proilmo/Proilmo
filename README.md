@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/📍-Rabat,%20Morocco-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🎓-INPT%20Rabat-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🥋-Taekwondo%20Black%20Belt-black?style=for-the-badge" />
+
 
 <br/><br/>
 
